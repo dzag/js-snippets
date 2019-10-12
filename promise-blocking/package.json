@@ -9,9 +9,8 @@
   },
   "author": "Long Nguyen",
   "license": "ISC",
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
-    "serve": "^11.0.1"
+    "serve": "^11.2.0"
   }
 }
