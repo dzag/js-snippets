@@ -1,4 +1,4 @@
-Microtasks in the queue will block ui rendering before all of mỉcro ones have finished.
+Microtasks in the queue will block ui rendering before all of micro ones have finished.
 
 Microtasks have higher priority than macrotasks, 
 so all of the microtasks will be executed before the the next macrotask get executed
